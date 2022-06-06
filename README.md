@@ -1,1 +1,1 @@
-# RPLHR-CT Dataset and Transformer for Volumetric SR
+# RPLHR-CT Dataset and Transformer Baseline for Volumetric Super-Resolution from CT Scans
