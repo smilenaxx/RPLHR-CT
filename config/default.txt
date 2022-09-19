@@ -2,20 +2,12 @@
 
 ### default
 # 这里的项必须在参数里写明
-model = None
 net_idx = None
 path_key = None
 
 # data & file path
 # 这两项不需要定义，根据 path_key 得到
 path_img = None
-
-### task
-target = 'O'
-
-### data type
-# R - real paired
-data_type = 'R'
 
 # loss
 loss_f = 'L1'
@@ -29,7 +21,6 @@ ratio = 5
 # global config
 T_mlp = 4
 T_pos = True
-T_v2c = False
 
 # Encoder config
 TE_c = 8
