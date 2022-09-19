@@ -29,8 +29,8 @@ python test.py test --path_key SRM --gpu_idx 0 --net_idx TVSRN
 ```
 
 ## Data
-We open source a dataset **RPLHR-CT**, which contains 250 cases of data (100 cases for training, 50 cases for validation, 100 cases for testing).  
-We uploaded 20/10/20 (train/val/test) case data to [baidu cloud disk](). 
+We open source a dataset **RPLHR-CT**, which contains 250 cases of data (100 cases for training, 50 cases for validation, 100 cases for testing). 
+We uploaded 20/10/20 (train/val/test) case data to [baidu cloud disk](https://pan.baidu.com/s/1QXbcFuWAHOiY3FijEcsowQ?pwd=ut7p). 
 For data usage rights reasons, should you required the complete dataset, please contact the corresponding author of our paper.
 
 ## Citation
