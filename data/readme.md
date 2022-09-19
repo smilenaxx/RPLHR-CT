@@ -1,1 +1,1 @@
-put the dataset in this folder.
+Put the dataset in this folder.
