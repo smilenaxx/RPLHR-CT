@@ -1,0 +1,119 @@
+########## spec_config ##########
+
+### default
+# 这里的项必须在参数里写明
+model = None
+net_idx = None
+path_key = None
+
+# data & file path
+# 这两项不需要定义，根据 path_key 得到
+path_img = None
+
+### task
+target = 'O'
+
+### data type
+# R - real paired
+data_type = 'R'
+
+# loss
+loss_f = 'L1'
+
+### data
+dim = 1
+ratio = 5
+
+### Task based model design
+### TVSRN
+# global config
+T_mlp = 4
+T_pos = True
+T_v2c = False
+
+# Encoder config
+TE_c = 8
+TE_l = 1
+TE_d = 4
+TE_n = 8
+TE_w = 8
+TE_p = 8
+
+# Decoder config
+TD_p = 8
+TD_s = 1
+
+TD_Tw = 4
+TD_Tl = 1
+TD_Td = 4
+
+TD_Iw = 8
+TD_Il = 2
+TD_Id = 4
+TD_n = 8
+
+########## common_config ##########
+**** hardware config ****
+gpu_idx = 0
+*************************
+
+**** mode ****
+mode = 'train'
+***********************************
+
+**** 网络部分 ****
+pre_train = False
+
+***********************************
+
+**** train & val config ****
+# train set
+epoch = 2000
+start_epoch = 1
+gap_epoch = 200
+
+# dataloader set
+# batch balance
+train_bs = 1
+num_workers = 4
+val_bs = 1
+test_num_workers = 4
+***********************************
+
+**** data config ****
+c_z = 4
+c_y = 256
+c_x = 256
+
+v_crop = True
+vc_z = 4
+vc_y = 256
+vc_x = 256
+
+mirror = False
+***********************************
+
+**** optimizer config ****
+# 优化器选择及不同优化器的相关参数
+optim = 'AdamW'
+wd = 0.0001
+lr = 0.0003
+flood = False
+gap_val = 5
+
+# 学习率策略及不同学习率策率的相关参数
+patience = 15
+cos_lr = False
+Tmax = 20
+lr_gap = 1000
+cycle_r = False
+Tmin = False
+***********************************
+
+**** model config ****
+save_log = False
+***********************************
+
+
+
+
