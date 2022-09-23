@@ -36,13 +36,16 @@ For data usage rights reasons, should you required the complete dataset, please 
 
 ## Citation
 If you use RPLHR-CT, please consider citing:
-
-    @article{yu2022rplhr,
-          title={RPLHR-CT Dataset and Transformer Baseline for Volumetric Super-Resolution from CT Scans},
-          author={Yu, Pengxin and Zhang, Haoyue and Kang, Han and Tang, Wen and Arnold, Corey W and Zhang, Rongguo},
-          journal={arXiv preprint arXiv:2206.06253},
-        year={2022}
-        }
+```
+    @inproceedings{yu2022rplhr,
+      title={RPLHR-CT Dataset and Transformer Baseline for Volumetric Super-Resolution from CT Scans},
+      author={Yu, Pengxin and Zhang, Haoyue and Kang, Han and Tang, Wen and Arnold, Corey W and Zhang, Rongguo},
+      booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+      pages={344--353},
+      year={2022},
+      organization={Springer}
+    }
+```
 
 **Acknowledgment**: This code is based on the [Swin Transformer](https://github.com/microsoft/Swin-Transformer).
 
