@@ -6,7 +6,7 @@ Han Kang, Wen Tang, Corey W. Arnold, Rongguo Zhang
 [![paper](https://img.shields.io/badge/MICCAI-Paper-green)](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_33)
 
 ## Our New Work
-2024.11 - Spatial resolution enhancement using deep learning improves chest disease diagnosis based on thick slice CT (*npj Digital Medicine*) [![paper](https://img.shields.io/badge/npj_Digital_Medicine-Paper-green)](https://www.nature.com/articles/s41746-024-01338-8)
+2024.11 - Spatial resolution enhancement using deep learning improves chest disease diagnosis based on thick slice CT (*npj Digital Medicine*) [![paper](https://img.shields.io/badge/npj_Digital_Medicine-Paper-green)](https://www.nature.com/articles/s41746-024-01338-8)  
 [Pengxin Yu](https://github.com/smilenaxx/), [Haoyue Zhang](https://github.com/zhanghaoyue), Dawei Wang, Rongguo Zhang, et al 
 
 ## Abstract
