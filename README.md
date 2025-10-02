@@ -8,7 +8,7 @@ Han Kang, Wen Tang, Corey W. Arnold, Rongguo Zhang
 ## Our New Work
 [2025.10] We released the RPLHR-CT Dataset on the https://zenodo.org/records/17239183.
 
-[2024.11 - Spatial resolution enhancement using deep learning improves chest disease diagnosis based on thick slice CT](https://github.com/smilenaxx/CTHNet-for-CT-Slice-Thickness-Reduction) [![paper](https://img.shields.io/badge/npj_Digital_Medicine-Paper-green)](https://www.nature.com/articles/s41746-024-01338-8)   
+[2024.11] [Spatial resolution enhancement using deep learning improves chest disease diagnosis based on thick slice CT](https://github.com/smilenaxx/CTHNet-for-CT-Slice-Thickness-Reduction) [![paper](https://img.shields.io/badge/npj_Digital_Medicine-Paper-green)](https://www.nature.com/articles/s41746-024-01338-8)   
 [Pengxin Yu](https://github.com/smilenaxx/), [Haoyue Zhang](https://github.com/zhanghaoyue), Dawei Wang, Rongguo Zhang, et al 
 
 ## Abstract
